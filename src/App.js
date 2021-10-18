@@ -6,7 +6,6 @@ function App() {
   return (
     <>
     {/* <NavBar title = {"GoAway"} homepageTitle = {"Home"} aboutTitle = {"About"} /> */}
-    {/* {/* <NavBar /> */}
     <NavBar /> 
     </>
   );
